@@ -54,19 +54,19 @@ O estilo narrativo de Protocolo_Turing é construído para provocar, desconcerta
 
 ## 🧪 Exemplos de Estilo
 
-`txt
+```text
 echo Você está pronto para começar?
 echo Ou já começou e esqueceu?
-`
+```
 
-`txt
+```text
 echo Se você fosse uma gelatina, qual sabor teria?
 echo Não ria. Isso é sério.
-`
+```
 
-`txt
+```text
 echo Você salvaria uma vida mesmo quebrando uma regra?
 echo A regra é você.
-`
+```
 
 ---
