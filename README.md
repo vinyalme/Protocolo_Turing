@@ -1,30 +1,31 @@
 # Protocolo Turing: O Ultimo Teste
 Jogo narrativo interativo em Batch que explora lógica, emoção e moral no contexto do Teste de Turing. Projeto experimental que demonstra aplicação de fluxos condicionais, manipulação de variáveis e design de narrativas em linguagens de script.
 
-Protocolo_Turing/
-├── game/                         # Código-fonte do jogo  
-│   └── Protocolo_Turing.bat     # Arquivo principal do jogo  
+```text
+
+📁 Protocolo_Turing/
+├── 📁 game/                         # Código-fonte do jogo  
+│   └── 📄 Protocolo_Turing.bat     # Arquivo principal do jogo  
 │  
-├── docs/                         # Documentação narrativa e técnica  
-│   ├── historia.md               # Lore do universo do jogo  
-│   ├── personagens.md            # Perfis e falas marcantes  
-│   ├── fluxo.md                  # Diagrama de decisões e finais  
-│   └── comandos.md               # Explicação dos comandos usados  
+├── 📁 docs/                         # Documentação narrativa e técnica  
+│   ├── 📄 historia.md               # Lore do universo do jogo  
+│   ├── 📄 personagens.md            # Perfis e falas marcantes  
+│   ├── 📄 fluxo.md                  # Diagrama de decisões e finais  
+│   └── 📄 comandos.md               # Explicação dos comandos usados  
 │  
-├── tests/                        # Testes manuais  
-│   └── checklist.txt             # Lista de verificação de finais e bugs  
+├── 📁 tests/                        # Testes manuais  
+│   └── 📄 checklist.txt             # Lista de verificação de finais e bugs  
 │  
-├── inspiration/                  # Referências criativas e filosóficas  
-│   ├── ideias.txt                # Anotações soltas e brainstorms  
-│   ├── frases.txt                # Frases marcantes para usar no jogo  
-│   ├── referencias.md            # Textos, autores e conceitos inspiradores  
-│   └── estilo_narrativo.md       # Diretrizes de tom e ambientação  
+├── 📁 inspiration/                  # Referências criativas e filosóficas  
+│   ├── 📄 ideias.txt                # Anotações soltas e brainstorms  
+│   ├── 📄 frases.txt                # Frases marcantes para usar no jogo  
+│   ├── 📄 referencias.md            # Textos, autores e conceitos inspiradores  
+│   └── 📄 estilo_narrativo.md       # Diretrizes de tom e ambientação  
 │  
-├── README.md                     # Apresentação do projeto  
-├── CHANGELOG.md                  # Histórico de versões  
-├── CONTRIBUTING.md               # Guia para colaboradores  
-├── LICENSE                       # Licença do projeto (ex: MIT)  
-└── .gitignore                    # Arquivos ignorados pelo Git
+├── 📄 LICENSE                       # Licença do projeto (ex: MIT)  
+└── 📄 README.md                     # Apresentação do projeto 
+
+```
 
 ---
 
