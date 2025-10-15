@@ -4,8 +4,8 @@ Jogo narrativo interativo em Batch que explora lógica, emoção e moral no cont
 ```text
 
 📁 Protocolo_Turing/
-├── 📁 game/                         # Código-fonte do jogo  
-│   └── 📄 Protocolo_Turing.bat     # Arquivo principal do jogo  
+├── 📁 cod_fonte/                    # Código-fonte do jogo  
+│   └── 📄 Protocolo_Turing.bat      # Arquivo principal do jogo  
 │  
 ├── 📁 docs/                         # Documentação narrativa e técnica  
 │   ├── 📄 historia.md               # Lore do universo do jogo  
@@ -13,16 +13,16 @@ Jogo narrativo interativo em Batch que explora lógica, emoção e moral no cont
 │   ├── 📄 fluxo.md                  # Diagrama de decisões e finais  
 │   └── 📄 comandos.md               # Explicação dos comandos usados  
 │  
-├── 📁 tests/                        # Testes manuais  
+├── 📁 testes/                       # Testes manuais  
 │   └── 📄 checklist.txt             # Lista de verificação de finais e bugs  
 │  
-├── 📁 inspiration/                  # Referências criativas e filosóficas  
+├── 📁 inspiracao/                   # Referências criativas e filosóficas  
 │   ├── 📄 ideias.txt                # Anotações soltas e brainstorms  
 │   ├── 📄 frases.txt                # Frases marcantes para usar no jogo  
 │   ├── 📄 referencias.md            # Textos, autores e conceitos inspiradores  
 │   └── 📄 estilo_narrativo.md       # Diretrizes de tom e ambientação  
 │  
-├── 📄 LICENSE                       # Licença do projeto (ex: MIT)  
+├── 📄 LICENSE                       # Licença de uso do projeto (MIT License)  
 └── 📄 README.md                     # Apresentação do projeto 
 
 ```
