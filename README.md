@@ -1,6 +1,12 @@
 # Protocolo Turing: O Ultimo Teste
 Jogo narrativo interativo em Batch que explora lógica, emoção e moral no contexto do Teste de Turing. Projeto experimental que demonstra aplicação de fluxos condicionais, manipulação de variáveis e design de narrativas em linguagens de script.
 
+
+
+Colossal cave 
+
+Roberta Lynn Williams ( nascida  Heuer ; nascida em 16 de fevereiro de 1953) é uma designer e escritora de videogames americana , que cofundou a Sierra On-Line com seu marido, o desenvolvedor de jogos Ken Williams
+
 ```text
 
 📁 Protocolo_Turing/
