@@ -140,6 +140,8 @@ Você quer algo aberto e expansível, então vamos projetar bem:
 
 🔧 Arquitetura recomendada
 
+```text
+
 /protocolo-turing
 │
 ├── src/
@@ -163,6 +165,7 @@ Você quer algo aberto e expansível, então vamos projetar bem:
 │
 ├── README.md
 └── LICENSE
+```
 
 Isso permite:
 
