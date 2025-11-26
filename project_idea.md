@@ -1,6 +1,4 @@
----
-
-🧠 PROTOCOLO: TURING — Visão Oficial do Projeto
+# 🧠 PROTOCOLO: TURING — Visão Oficial do Projeto
 
 🎮 O que é o Protocolo: Turing?
 
@@ -8,11 +6,11 @@ Protocolo: Turing é um jogo de ficção interativa em estilo clássico, inspira
 
 O diferencial do projeto:
 
--✔ Feito inicialmente em .BAT, com estética retro
--✔ Totalmente modular, para ser expandido por qualquer pessoa
--✔ Open source, permissivo e colaborativo
--✔ Focado em narrativa, escolhas e múltiplos finais
--✔ Feito para inspirar criatividade — tanto sua quanto da comunidade
+- ✔ Feito inicialmente em .BAT, com estética retro
+- ✔ Totalmente modular, para ser expandido por qualquer pessoa
+- ✔ Open source, permissivo e colaborativo
+- ✔ Focado em narrativa, escolhas e múltiplos finais
+- ✔ Feito para inspirar criatividade — tanto sua quanto da comunidade
 
 
 ---
