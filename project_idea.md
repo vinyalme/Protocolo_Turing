@@ -167,19 +167,19 @@ Você quer algo aberto e expansível, então vamos projetar bem:
 
 Isso permite:
 
--✔ Qualquer pessoa criar novas perguntas
--✔ Criar novos finais
--✔ Migrar para outras linguagens
--✔ Fazer forks criativos
--✔ Criar modos alternativos do jogo
--✔ Fazer VNs, versões web, etc
+- ✔ Qualquer pessoa criar novas perguntas
+- ✔ Criar novos finais
+- ✔ Migrar para outras linguagens
+- ✔ Fazer forks criativos
+- ✔ Criar modos alternativos do jogo
+- ✔ Fazer VNs, versões web, etc
 
 Esse é o coração do projeto open community.
 
 
 ---
 
-✔ Resumo do que você quer (e eu já entendi 100%)
+✔ Resumo 
 
 > Criar um jogo retro baseado em escolhas, com 10 perguntas, 4 atributos, 5 finais, arquitetura aberta e pensada para a comunidade continuar, expandir e portar.
 
