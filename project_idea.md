@@ -8,11 +8,11 @@ Protocolo: Turing é um jogo de ficção interativa em estilo clássico, inspira
 
 O diferencial do projeto:
 
-✔ Feito inicialmente em .BAT, com estética retro
-✔ Totalmente modular, para ser expandido por qualquer pessoa
-✔ Open source, permissivo e colaborativo
-✔ Focado em narrativa, escolhas e múltiplos finais
-✔ Feito para inspirar criatividade — tanto sua quanto da comunidade
+-✔ Feito inicialmente em .BAT, com estética retro
+-✔ Totalmente modular, para ser expandido por qualquer pessoa
+-✔ Open source, permissivo e colaborativo
+-✔ Focado em narrativa, escolhas e múltiplos finais
+-✔ Feito para inspirar criatividade — tanto sua quanto da comunidade
 
 
 ---
@@ -169,12 +169,12 @@ Você quer algo aberto e expansível, então vamos projetar bem:
 
 Isso permite:
 
-✔ Qualquer pessoa criar novas perguntas
-✔ Criar novos finais
-✔ Migrar para outras linguagens
-✔ Fazer forks criativos
-✔ Criar modos alternativos do jogo
-✔ Fazer VNs, versões web, etc
+-✔ Qualquer pessoa criar novas perguntas
+-✔ Criar novos finais
+-✔ Migrar para outras linguagens
+-✔ Fazer forks criativos
+-✔ Criar modos alternativos do jogo
+-✔ Fazer VNs, versões web, etc
 
 Esse é o coração do projeto open community.
 
