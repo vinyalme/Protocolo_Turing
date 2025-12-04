@@ -1,8 +1,6 @@
 # 🕹 Protocolo Turing: *O Ultimo Teste*
 >*Um jogo de ficção interativa em estilo retrô, onde não é a IA que está sendo avaliada… é você.*
 
----
-
 ## 📖 **Sobre o projeto**
 
 **Protocolo: Turing** é um jogo narrativo em linha de comando, inspirado nos clássicos da era de ouro dos adventures de texto, como *Colossal Cave*, *Zork* e as primeiras obras narrativas da Sierra On-Line.
