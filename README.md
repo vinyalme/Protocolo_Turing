@@ -1,5 +1,5 @@
 # 🕹 Protocolo Turing: *O Ultimo Teste*
-> *Um jogo de ficção interativa em estilo retrô, onde não é a IA que está sendo avaliada… é você.*
+>*Um jogo de ficção interativa em estilo retrô, onde não é a IA que está sendo avaliada… é você.*
 
 ---
 
