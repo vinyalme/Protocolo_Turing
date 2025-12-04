@@ -1,114 +1,145 @@
 # 🕹 Protocolo Turing: *O Ultimo Teste*
-Jogo narrativo interativo em Batch que explora lógica, emoção e moral no contexto do Teste de Turing. Projeto experimental que demonstra aplicação de fluxos condicionais, manipulação de variáveis e design de narrativas em linguagens de script.
+> *Um jogo de ficção interativa em estilo retrô, onde não é a IA que está sendo avaliada… é você.*
 
+---
 
+## 📖 **Sobre o projeto**
 
-Colossal cave 
+**Protocolo: Turing** é um jogo narrativo em linha de comando, inspirado nos clássicos da era de ouro dos adventures de texto, como *Colossal Cave*, *Zork* e as primeiras obras narrativas da Sierra On-Line.
 
-Roberta Lynn Williams ( nascida  Heuer ; nascida em 16 de fevereiro de 1953) é uma designer e escritora de videogames americana , que cofundou a Sierra On-Line com seu marido, o desenvolvedor de jogos Ken Williams
+Criado inicialmente em **.BAT**, o projeto busca trazer de volta a estética minimalista, tensa e imersiva dos primeiros jogos de computador — combinada com uma narrativa psicológica, múltiplos finais e um sistema oculto de atributos.
 
-```text
+Este projeto é **open source**, expansível, colaborativo e modular.
+Qualquer pessoa pode:
 
-📁 Protocolo_Turing/
-├── 📁 cod_fonte/                    # Código-fonte do jogo  
-│   └── 📄 Protocolo_Turing.bat      # Arquivo principal do jogo  
-│  
-├── 📁 docs/                         # Documentação narrativa e técnica  
-│   ├── 📄 historia.md               # Lore do universo do jogo  
-│   ├── 📄 personagens.md            # Perfis e falas marcantes  
-│   ├── 📄 fluxo.md                  # Diagrama de decisões e finais  
-│   └── 📄 comandos.md               # Explicação dos comandos usados  
-│  
-├── 📁 testes/                       # Testes manuais  
-│   └── 📄 checklist.txt             # Lista de verificação de finais e bugs  
-│  
-├── 📁 inspiracao/                   # Referências criativas e filosóficas  
-│   ├── 📄 ideias.txt                # Anotações soltas e brainstorms  
-│   ├── 📄 frases.txt                # Frases marcantes para usar no jogo  
-│   ├── 📄 referencias.md            # Textos, autores e conceitos inspiradores  
-│   └── 📄 estilo_narrativo.md       # Diretrizes de tom e ambientação  
-│  
-├── 📄 LICENSE                       # Licença de uso do projeto (MIT License)  
-└── 📄 README.md                     # Apresentação do projeto 
+* Criar novas perguntas
+* Expandir a história
+* Portar o jogo para outras linguagens
+* Desenvolver finais alternativos
+* Construir sua própria versão do Protocolo
 
+---
+
+## 🧠 **Premissa**
+
+Você acorda em uma sala fria e metálica.
+Um monitor antigo pisca diante de você.
+Uma IA chamada **EVA** diz que *o teste já começou*.
+
+Mas há um detalhe:
+
+💡 *Você não está testando a IA…
+A IA está testando você.*
+
+Cada escolha altera quem você é dentro do sistema.
+E o sistema está de olho.
+
+---
+
+## 🎮 **Como funciona**
+
+O jogo consiste em uma série de perguntas e decisões.
+Cada resposta modifica atributos **ocultos**:
+
+* 🫀 **emocional**
+* 🧠 **racional**
+* ⚖️ **moral**
+* 🜂 **entropia** (caos, impulso, imprevisibilidade)
+
+O final que você recebe depende de qual atributo dominou sua mente ao longo do jogo.
+
+Além disso, existe um **5º final secreto**, desbloqueado apenas por uma sequência exata de respostas.
+
+---
+
+## 🧩 **Mecânica e Estrutura**
+
+* 10 perguntas principais
+* Múltiplos ramos narrativos
+* 4 finais baseados nos atributos
+* 1 final secreto (meta, oculto e encriptado)
+* Lore profunda, inspirada em filosofia da mente, Turing Test, IA e identidade
+* Totalmente modular: qualquer um pode expandir
+
+---
+
+## 📂 **Estrutura do Repositório**
+
+```
+/protocolo-turing
+│
+├── src/
+│   ├── original/
+│   │   └── protocolo-turing.bat
+│   ├── expansions/
+│   │   ├── fan-versions/
+│   │   └── challenges/
+│   ├── ports/
+│       ├── python/
+│       ├── javascript/
+│       ├── rust/
+│       └── powershell/
+│
+├── docs/
+│   ├── lore.md
+│   ├── perguntas.md
+│   ├── finais.md
+│   ├── contribuindo.md
+│   ├── arquitetura.md
+│   └── roadmap.md
+│
+├── README.md
+├── CHANGELOG.md
+└── LICENSE (MIT)
 ```
 
 ---
 
-🤝 Contribuindo com o Protocolo_Turing
+## 🚀 **Como rodar (Windows)**
 
-Obrigado por seu interesse em colaborar com o Protocolo_Turing! Este é um jogo narrativo artesanal feito em .bat, onde cada linha é escrita manualmente para criar uma experiência imersiva e filosófica. Toda colaboração é bem-vinda — seja para expandir a história, sugerir novos finais ou melhorar o fluxo do jogo.
+1. Baixe ou clone este repositório:
 
----
+   ```
+   git clone https://github.com/seuuser/protocolo-turing
+   ```
+2. Abra a pasta `src/original/`
+3. Execute:
 
-🧠 Tipos de contribuição
-
-Você pode ajudar com:
-
-- 📜 Expansão narrativa: novos diálogos, caminhos ou finais alternativos  
-- 🧩 Lógica: ajustes no sistema de pontuação e controle de fluxo  
-- 🧪 Testes: identificação de bugs ou loops quebrados  
-- 🛠️ Código: refatoração de comandos .bat para clareza e eficiência  
-- 🌍 Tradução: adaptação do conteúdo para outros idiomas
+   ```
+   protocolo-turing.bat
+   ```
 
 ---
 
-⚙️ Padrões técnicos
+## 🤝 **Contribuindo**
 
-Este projeto utiliza comandos nativos do Windows .bat. Os seguintes comandos são padrão e bem-vindos:
+O Protocolo: Turing é um projeto comunitário.
+Se quiser participar, você pode:
 
-- @echo off, echo., cls, pause >nul  
-- set /a, set /p, if, goto, color
+* Criar novas perguntas
+* Fazer versões alternativas
+* Portar para novas linguagens
+* Sugerir melhorias
+* Criar finais extras
+* Expandir a Lore
 
-Evite comandos que dependam de ferramentas externas ou que não funcionem em ambientes padrão do Windows.
-
----
-
-✍️ Estilo de escrita
-
-- Narrativa introspectiva e filosófica  
-- Frases curtas e impactantes  
-- Uso de espaçamento visual para criar ritmo e suspense  
-- Diálogos que provocam reflexão sobre consciência, identidade e moral
+Leia o arquivo **contribuindo.md** antes de enviar um pull request.
 
 ---
 
-🪛 Como contribuir
+## 📝 **Licença**
 
-1. Faça um fork deste repositório  
-2. Crie uma branch com nome descritivo: feature/novo-final, fix/loop-menu, etc.  
-3. Faça commits claros e objetivos  
-4. Teste localmente em ambiente Windows  
-5. Envie um Pull Request explicando sua proposta
+Este projeto é licenciado sob a **MIT License**.
+Use, modifique, hackeie, expanda — desde que mantenha os créditos.
 
 ---
 
-✅ Testes e verificação
+## 🧩 **Mensagem final**
 
-Antes de enviar sua contribuição:
+> “O verdadeiro teste de Turing não é saber se a máquina pensa como um humano…
+> Mas descobrir se o humano pensa como ele realmente é.”
 
-- Verifique se o fluxo retorna corretamente ao menu após o final  
-- Teste todas as opções de escolha para garantir atribuição correta de pontuação  
-- Confirme que o jogo não apresenta loops quebrados ou travamentos  
-- Utilize o arquivo tests/checklist.txt como referência
-
----
-
-📬 Dúvidas ou sugestões
-
-Abra uma Issue no GitHub com sua dúvida, ideia ou relato de bug. Descreva o problema com clareza, incluindo trecho de código afetado e comportamento observado.
+Bem-vindo ao protocolo.
+E boa sorte.
 
 ---
-
-📄 Licenciamento e reconhecimento
-
-Este projeto está licenciado sob a Licença MIT. Toda contribuição aceita será creditada no histórico de versões (CHANGELOG.md) e no corpo do repositório, conforme aplicável.
-
----
-
-🧭 Mensagem final
-
-Contribuir com o Protocolo_Turing é mais do que escrever código — é participar de uma experiência que questiona o que nos torna humanos. Seja bem-vindo ao teste.
-
----
-
