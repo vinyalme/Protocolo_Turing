@@ -64,7 +64,7 @@ Além disso, existe um **5º final secreto**, desbloqueado apenas por uma sequê
 ## 📂 **Estrutura do Repositório**
 
 ```
-/protocolo-turing
+🕹 protocolo-turing
 │
 ├── src/
 │   ├── original/
@@ -72,10 +72,9 @@ Além disso, existe um **5º final secreto**, desbloqueado apenas por uma sequê
 │   ├── expansions/
 │   │   ├── fan-versions/
 │   │   └── challenges/
-│   ├── ports/
+│   └── ports/
 │       ├── python/
 │       ├── javascript/
-│       ├── rust/
 │       └── powershell/
 │
 ├── docs/
