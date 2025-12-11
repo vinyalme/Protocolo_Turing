@@ -140,3 +140,8 @@ Bem-vindo ao protocolo.
 E boa sorte.
 
 ---
+
+© 2025 • Projeto Protocolo Turing: *O Ultimo Teste*
+Distribuído sob os termos da [MIT License](./LICENSE).
+
+---
