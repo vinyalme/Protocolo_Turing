@@ -124,13 +124,6 @@ Leia o arquivo **contribuindo.md** antes de enviar um pull request.
 
 ---
 
-## 📝 **Licença**
-
-Este projeto é licenciado sob a **MIT License**.
-Use, modifique, hackeie, expanda — desde que mantenha os créditos.
-
----
-
 ## 🧩 **Mensagem final**
 
 > “O verdadeiro teste de Turing não é saber se a máquina pensa como um humano…
